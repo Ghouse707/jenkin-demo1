@@ -13,7 +13,7 @@ class JenkinsDemoApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(JenkinsDemoApplicationTests.class);
 
 	@Test
-	public contextLoads() {
+	public void contextLoads() {
 		logger.info("Test case of my program ghouse is executing111...");
 		logger.info("Test case of my program ghouse22222222222...");
 
