@@ -15,6 +15,7 @@ class JenkinsDemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		logger.info("Test case of my program ghouse is executing111...");
+		logger.info("Test case of my program ghouse22222222222...");
 
 		assertEquals(true, true);
 
